@@ -7,7 +7,6 @@
 
 - <a href="#sobre-o-projeto">Sobre o Projeto</a>
 - <a href="#objetivos">Objetivos</a>
-- <a href="#funcionalidades">Funcionalidades</a>
 - <a href="#captura-de-tela">Capitura de Tela</a>
 - <a href="#linguagens-utilizadas">Linguagens utilizadas</a>
 - <a href="#o-que-eu-aprendi">O que eu aprendi</a>
@@ -26,51 +25,48 @@
 - Estilizar Foumulários
 
 
-## Funcionalidades
-
-1. 
-
-
 ## Captura de tela 
 📸
 
-#### Menu inicial e Carousel Slider
-<img style="width:300px" src="./assets/" alt="<Menu e slider">
+#### Tela Descktop
+<img style="width:300px" src="./assets/img/cadastro1.png" alt="Tela Descktop">
 
-#### Carousel de Filmes
-<img style="width:300px" src="./assets/" alt="<Carousel de filmes">
+#### Tela Tablet
+<img style="width:300px" src="./assets/img/cadastro2.png" alt="Tela Tablet">
+
+#### Tela Mobile
+<img style="width:300px" src="./assets/img/cadastro3.png" alt="Tela Mobile">
 
 
 
 
 ## Demonstração
 
-[Link Demontração](<a href="">My Movie</a>)
+[Link Demontração](<a href="https://responsive-form-2023.netlify.app/">Formulário de Cadastro</a>)
 
 
 ## Linguagens utilizadas
 📝
-HTML | CSS, Bootstrap | JavaScript
+HTML | CSS
 
 ###  O que eu aprendi
 🤓
 
-- 
+- Deixar um formulário Responsivo
+- Trabalhar com brack point
+- Estilizar Focus do input
 
 
 
 ## Melhorias na alicação
 
-- 
-
-
-## Lista de possíveis implementações
-
-1. 
+- Inplementar interatividade através do JavaScript
 
 ###   Recursos Úteis
+
+Ilustrações em svg
 🔧
-- <a href="">Axios Js CDN</a>
+- <a href="https://undraw.co/illustrations">undraw</a>
 
 
 ##   Autor
