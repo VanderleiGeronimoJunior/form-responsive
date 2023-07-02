@@ -16,7 +16,8 @@
 
 ##  Sobre o Projeto
 
-  
+ Projeto desenvolvido para estudo da responsividade, formatações dos forms, layout com flexbox e media queries em CSS.
+
 
 
 ##  Objetivos

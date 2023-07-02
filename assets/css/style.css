@@ -51,7 +51,7 @@ body{
 }
 
 .form-header{
-    margin-bottom: 3rem;
+    margin-bottom: 1.5rem;
     display: flex;
     justify-content: space-between;    
 }
@@ -150,7 +150,7 @@ body{
 }
 
 .continue-button button{
-    margin-top: 3rem;
+    margin-top: 1.5rem;
     width: 100%;
     border: none;
     background-color: #6c63ff;
@@ -180,5 +180,32 @@ body{
 
     .form{
         width: 100%;
+        border-radius: 10px;
+    }
+}
+
+@media screen and (max-width: 1064px) {
+    .container{
+        width: 90%;
+        height: auto;
+    }
+
+    .input-group{
+        flex-direction: column;
+        overflow-y: scroll;
+        flex-wrap: nowrap;
+        max-height: 10rem;
+        padding-right: 5rem;
+    }
+
+    .gender-inputs{
+        margin-top: 1.5rem;
+    }
+    .gender-input{
+        margin-top: 1rem;
+    }
+
+    .gender-group{
+        flex-direction: column;
     }
 }
