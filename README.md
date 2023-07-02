@@ -1,6 +1,6 @@
 # Formulário Responsivo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/92c1beac-8934-4095-82f0-af67343ea67c/deploy-status)](https://app.netlify.com/sites/transcendent-yeot-2e0134/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d95d4b6c-ed0f-4027-b099-d2d6b61067fa/deploy-status)](https://app.netlify.com/sites/form-responsive2023/deploys)
 
 ##  📋 Índice
 
@@ -21,7 +21,8 @@
 
 ##  Objetivos
 
-- 
+- Trabalhar a responsividade
+- Estilizar Foumulários
 
 
 ## Funcionalidades
